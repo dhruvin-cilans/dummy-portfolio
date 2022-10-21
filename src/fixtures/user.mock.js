@@ -1,6 +1,6 @@
 export const UserData = {
     id: 1,
-    name: 'John Doe',
+    name: 'Dhruvi H. Mehta',
     email: '',
     contact: '',
     about: "",

@@ -1,9 +1,9 @@
 export const UserData = {
     id: 1,
     name: 'Dhruvi H. Mehta',
-    email: '',
+    email: 'dhruvi@gmail.com',
     contact: '',
-    about: "",
+    about: "DevOps & Data Science Engineer",
     avatar: '',
     cover: '',
     socials: {

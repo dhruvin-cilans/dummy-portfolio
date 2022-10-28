@@ -16,7 +16,11 @@ const Home = () => {
                 fontWeight: 'bold',
                 backgroundColor: '#eee',
             }}>Portfolio</h1>
-            <img src={UserData.avatar} alt="profile"></img>
+            <img style={{
+                width: '150px',
+                height: '150px',
+                borderRadius: '50%',
+            }} src={UserData.avatar} alt="profile"></img>
             <p>{UserData.name}</p>
             <p>{UserData.email}</p>
             <p>{UserData.contact}</p>

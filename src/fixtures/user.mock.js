@@ -12,45 +12,4 @@ export const UserData = {
         linkedin: ' https://www.linkedin.com/',
         instagram: ' https://www.instagram.com/',
     },
-    posts: [
-        {
-            id: 1,
-            title: 'Post 1',
-            content: 'Post 1 content',
-            image: '',
-            likes: 0,
-            comments: 0,
-            shares: 0,
-            createdAt: '2020-01-01',
-            updatedAt: '2020-01-01',
-        },
-        {
-            id: 2,
-            title: 'Post 2',
-            content: 'Post 2 content',
-            image: '',
-            likes: 0,
-            comments: 0,
-            shares: 0,
-            createdAt: '2020-01-01',
-            updatedAt: '2020-01-01',
-        },
-    ],
-    portfolio: [
-        {
-            id: 1,
-            title: 'Portfolio 1',
-            content: 'Portfolio 1 content',
-            image: '',
-            link: '',
-        },
-        {
-            id: 2,
-            title: 'Portfolio 2',
-            content: 'Portfolio 2 content',
-            image: '',
-            link: '',
-        },
-    ],
-
 }

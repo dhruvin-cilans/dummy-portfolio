@@ -36,21 +36,4 @@ export const UserData = {
             updatedAt: '2020-01-01',
         },
     ],
-    portfolio: [
-        {
-            id: 1,
-            title: 'Portfolio 1',
-            content: 'Portfolio 1 content',
-            image: '',
-            link: '',
-        },
-        {
-            id: 2,
-            title: 'Portfolio 2',
-            content: 'Portfolio 2 content',
-            image: '',
-            link: '',
-        },
-    ],
-
 }

@@ -3,7 +3,7 @@ export const UserData = {
     name: 'Dhruvi H. Mehta',
     email: 'dhruvi@gmail.com',
     contact: '',
-    about: "DevOps & Data Science Engineer",
+    about: "DevOps & Data Science Engineer | AWS Certified Solutions Architect",
     avatar: '',
     cover: '',
     socials: {
